@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+.venv/
+venv/
+build/
+dist/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs & temp
+*.log
+*LOG.TXT
+test_temp*
+
+# Installers - do not commit these, download from official sources instead
+*.exe
